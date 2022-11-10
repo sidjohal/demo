@@ -1,0 +1,21 @@
+h1, h2, h3, h4, p, a, td, li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+a{
+    padding:10px;
+}
+
+h1 { 
+    text-align: center;
+}
+
+h3 { 
+    text-align: center;
+}
+.container{
+    width:60%;
+    height:100%;
+    background-color: azure;
+}
