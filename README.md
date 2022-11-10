@@ -1,2 +1,3 @@
 # demo
-Learning git ang github
+
+Descr - Learning git ang github
