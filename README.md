@@ -1,6 +1,6 @@
 # demo
 
-Descr - Learning git ang github
+Descr - Learning git and github
 
 
 Coming from git
